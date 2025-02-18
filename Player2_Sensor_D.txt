@@ -1,0 +1,49 @@
+#include <WiFi.h>
+#include <PubSubClient.h>
+
+// กำหนดข้อมูล WiFi
+const char* ssid = "Patchara";
+const char* password = "anas5911";
+
+// กำหนด MQTT Broker
+const char* mqtt_server = "192.168.100.189";  // IP ของ MQTT Broker
+
+WiFiClient espClient;
+PubSubClient client(espClient);
+
+const int irSensorD = 2;  // เซ็นเซอร์ IR สำหรับจุด D
+
+void setup() {
+  // เริ่มต้นการเชื่อมต่อ WiFi
+  Serial.begin(115200);
+  WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(1000);
+    Serial.println("Connecting to WiFi...");
+  }
+  Serial.println("Connected to WiFi");
+  
+  // เชื่อมต่อกับ MQTT Broker
+  client.setServer(mqtt_server, 1883);
+  while (!client.connected()) {
+    if (client.connect("ESP32_D_Client")) {
+      Serial.println("Connected to MQTT Broker");
+    } else {
+      delay(1000);
+    }
+  }
+
+  // ตั้งค่า IR Sensor pins
+  pinMode(irSensorD, INPUT);
+}
+
+void loop() {
+  // ตรวจสอบการตัดผ่านของเซ็นเซอร์
+  if (digitalRead(irSensorD) == LOW) {  // เมื่อมีการตัดผ่านเซ็นเซอร์ D
+    client.publish("fitness_test/athlete_status_D", "Passed");
+    delay(500);  // ระยะเวลาเพื่อหลีกเลี่ยงการส่งข้อมูลซ้ำ
+  }
+
+  client.loop();
+}
+
