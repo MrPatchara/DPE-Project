@@ -19,10 +19,8 @@ def connect_mqtt(broker_ip):
         client.connect(broker_ip, 1883)  # ✅ ใช้ค่าจาก GUI
         client.subscribe("fitness_test/#")
         client.loop_start()
-        speak_text(f"Connected to MQTT Broker: {broker_ip}")
         timer_label.config(text=f"Connected to {broker_ip}", fg="green")
     except Exception as e:
-        speak_text(f"Failed to connect: {str(e)}")
         timer_label.config(text="Connection Failed", fg="red")
 
 
