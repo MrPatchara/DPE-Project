@@ -1,0 +1,26 @@
+{
+    "athletes": [
+        {
+            "first_name": "No.01_Buakaw",
+            "last_name": "Banchamek",
+            "age": "30",
+            "gender": "Male",
+            "sport": "Boxing",
+            "height": "185",
+            "weight": "80",
+            "photo_path": "C:/Users/Patchara/Pictures/albert-einstein-desen-stencil-ehs05-25x25cm.jpg",
+            "id": "1"
+        },
+        {
+            "first_name": "No.02_Patchara",
+            "last_name": "Al-umaree",
+            "age": "28",
+            "gender": "Male",
+            "sport": "Soccer",
+            "height": "170",
+            "weight": "70",
+            "photo_path": "",
+            "id": "2"
+        }
+    ]
+}
