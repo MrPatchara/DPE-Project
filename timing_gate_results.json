@@ -1,0 +1,28 @@
+{
+    "results": [
+        {
+            "athlete_id": "1",
+            "first_name": "No.01_Patchara",
+            "last_name": "Al-umaree",
+            "sport": "Superman",
+            "date": "2025-04-09 23:34",
+            "timings": [
+                1.8462955951690674,
+                1.1431775093078613,
+                2.505854845046997,
+                1.7465662956237793
+            ]
+        },
+        {
+            "athlete_id": "1",
+            "first_name": "No.01_Patchara",
+            "last_name": "Al-umaree",
+            "sport": "Superman",
+            "date": "2025-04-09 23:34",
+            "timings": [
+                3.724911689758301,
+                4.4015891551971436
+            ]
+        }
+    ]
+}
