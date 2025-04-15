@@ -14,14 +14,57 @@
             ]
         },
         {
-            "athlete_id": "1",
-            "first_name": "No.01_Patchara",
-            "last_name": "Al-umaree",
-            "sport": "Superman",
-            "date": "2025-04-09 23:34",
+            "athlete_id": "4",
+            "first_name": "No.04_Michael",
+            "last_name": "Jordan",
+            "sport": "Basketball",
+            "date": "2025-04-15 20:58",
             "timings": [
-                3.724911689758301,
-                4.4015891551971436
+                1.2395823001861572,
+                7.897459268569946,
+                6.375899076461792
+            ]
+        },
+        {
+            "athlete_id": "4",
+            "first_name": "No.04_Michael",
+            "last_name": "Jordan",
+            "sport": "Basketball",
+            "date": "2025-04-15 21:10",
+            "timings": [
+                4.763014554977417
+            ]
+        },
+        {
+            "athlete_id": "3",
+            "first_name": "No.03_Mike",
+            "last_name": "Tyson",
+            "sport": "Boxing",
+            "date": "2025-04-15 21:15",
+            "distance_m": 500.0,
+            "timings": [
+                3.8476860523223877,
+                2.030092239379883
+            ]
+        },
+        {
+            "athlete_id": "2",
+            "first_name": "No.02_Buakaw",
+            "last_name": "Banchamek",
+            "sport": "Muaythai",
+            "date": "2025-04-15 21:39",
+            "distance_m": 100.0,
+            "timings": [
+                7.6644792556762695,
+                4.609344244003296,
+                8.519047498703003,
+                7.70444130897522,
+                6.837339162826538,
+                7.880815029144287,
+                6.3442816734313965,
+                7.828287839889526,
+                6.718971014022827,
+                7.08355188369751
             ]
         }
     ]
