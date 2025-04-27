@@ -49,12 +49,98 @@
             "result": "Level 1, Shuttle 2"
         },
         {
+            "athlete_id": "6",
+            "first_name": "No.06_Cristiano",
+            "last_name": "Ronaldo",
+            "date": "2025-04-16 15:35",
+            "test_type": "Beep Test",
+            "result": "Level 1, Shuttle 3",
+            "hr_data": {
+                "values": [
+                    86,
+                    84
+                ],
+                "avg": 85.0,
+                "max": 86,
+                "min": 84,
+                "zone_percent": {
+                    "Zone 1": 100.0,
+                    "Zone 2": 0.0,
+                    "Zone 3": 0.0,
+                    "Zone 4": 0.0,
+                    "Zone 5": 0.0
+                }
+            }
+        },
+        {
             "athlete_id": "1",
             "first_name": "No.01_Patchara",
             "last_name": "Al-umaree",
-            "date": "2025-04-09 23:38",
+            "date": "2025-04-16 15:59",
             "test_type": "Beep Test",
-            "result": "Level 2, Shuttle 2"
+            "result": "Level 1, Shuttle 5",
+            "hr_data": {
+                "values": [
+                    77,
+                    102,
+                    112,
+                    84,
+                    102
+                ],
+                "avg": 95.4,
+                "max": 112,
+                "min": 77,
+                "zone_percent": {
+                    "Zone 1": 100.0,
+                    "Zone 2": 0.0,
+                    "Zone 3": 0.0,
+                    "Zone 4": 0.0,
+                    "Zone 5": 0.0
+                }
+            }
+        },
+        {
+            "athlete_id": "1",
+            "first_name": "No.01_Patchara",
+            "last_name": "Al-umaree",
+            "date": "2025-04-16 17:46",
+            "test_type": "Beep Test",
+            "result": "Level 8, Shuttle 4",
+            "hr_data": {
+                "values": [
+                    75,
+                    83,
+                    74,
+                    74,
+                    72,
+                    68,
+                    72,
+                    73,
+                    73,
+                    71,
+                    73,
+                    74,
+                    77,
+                    76,
+                    82,
+                    77,
+                    73,
+                    78,
+                    74,
+                    72,
+                    78
+                ],
+                "avg": 74.7,
+                "max": 83,
+                "min": 68,
+                "zone_percent": {
+                    "Zone 1": 100.0,
+                    "Zone 2": 0.0,
+                    "Zone 3": 0.0,
+                    "Zone 4": 0.0,
+                    "Zone 5": 0.0
+                }
+            }
         }
     ]
 }

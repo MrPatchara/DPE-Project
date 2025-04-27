@@ -1,0 +1,136 @@
+{
+    "results": [
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "1",
+            "first_name": "No.01_Patchara",
+            "last_name": "Al-umaree",
+            "sport": "Superman",
+            "date": "2025-04-16 10:27",
+            "distance_m": 100.0,
+            "timings": [
+                1.4844896793365479
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "2",
+            "first_name": "No.02_Buakaw",
+            "last_name": "Banchamek",
+            "sport": "Muaythai",
+            "date": "2025-04-16 10:27",
+            "distance_m": 100.0,
+            "timings": [
+                0.6046364307403564
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "3",
+            "first_name": "No.03_Mike",
+            "last_name": "Tyson",
+            "sport": "Boxing",
+            "date": "2025-04-16 10:27",
+            "distance_m": 100.0,
+            "timings": [
+                0.7059900760650635
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "4",
+            "first_name": "No.04_Michael",
+            "last_name": "Jordan",
+            "sport": "Basketball",
+            "date": "2025-04-16 10:27",
+            "distance_m": 100.0,
+            "timings": [
+                0.726468563079834
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "5",
+            "first_name": "No.05_Roger",
+            "last_name": "Federer ",
+            "sport": "Tennis",
+            "date": "2025-04-16 10:27",
+            "distance_m": 100.0,
+            "timings": [
+                5.104649305343628
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "1",
+            "first_name": "No.01_Patchara",
+            "last_name": "Al-umaree",
+            "sport": "Superman",
+            "date": "2025-04-16 10:50",
+            "distance_m": 50.0,
+            "timings": [
+                9.36334490776062
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "2",
+            "first_name": "No.02_Buakaw",
+            "last_name": "Banchamek",
+            "sport": "Muaythai",
+            "date": "2025-04-16 10:50",
+            "distance_m": 50.0,
+            "timings": [
+                7.217053174972534
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "3",
+            "first_name": "No.03_Mike",
+            "last_name": "Tyson",
+            "sport": "Boxing",
+            "date": "2025-04-16 10:50",
+            "distance_m": 50.0,
+            "timings": [
+                15.986499547958374
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "4",
+            "first_name": "No.04_Michael",
+            "last_name": "Jordan",
+            "sport": "Basketball",
+            "date": "2025-04-16 10:50",
+            "distance_m": 50.0,
+            "timings": [
+                19.70341157913208
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "5",
+            "first_name": "No.05_Roger",
+            "last_name": "Federer ",
+            "sport": "Tennis",
+            "date": "2025-04-16 10:50",
+            "distance_m": 50.0,
+            "timings": [
+                3.673722267150879
+            ]
+        },
+        {
+            "team": "Thailand No.1",
+            "athlete_id": "6",
+            "first_name": "No.06_Cristiano",
+            "last_name": "Ronaldo",
+            "sport": "Soccer",
+            "date": "2025-04-16 10:50",
+            "distance_m": 50.0,
+            "timings": [
+                8.788887977600098
+            ]
+        }
+    ]
+}
