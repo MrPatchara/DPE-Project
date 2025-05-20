@@ -16,7 +16,7 @@ import matplotlib.cm as cm  # สำหรับ color map
 # ----------------------------
 BROKER_DEFAULT_IP = "192.168.100.189"
 RESULT_FILE = "timing_gate_results.json"
-ATHLETE_FILE = "timing_athletes.json"
+ATHLETE_FILE = "athletes.json"
 TEAM_FILE = "teams.json"
 
 
