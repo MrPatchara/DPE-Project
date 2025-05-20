@@ -9,7 +9,7 @@ PubSubClient client(espClient);
 // ✅ ค่าเริ่มต้นของ MQTT Broker (สามารถเปลี่ยนได้ผ่าน Web Portal)
 String mqtt_server = "192.168.100.189";  
 
-const int irSensorB = 2;  // ✅ เซ็นเซอร์ IR
+const int irSensorB = 4;  // ✅ เซ็นเซอร์ IR
 const int buzzerPin = 13;    // กำหนดขา Buzzer (เปลี่ยนตามที่คุณต่อจริง)
 
 // ✅ ฟังก์ชันเชื่อมต่อ MQTT
@@ -37,7 +37,7 @@ void setupWiFiAndMQTT() {
     WiFiManagerParameter mqtt_param("mqtt", "MQTT Broker IP", mqtt_server.c_str(), 40);
     wifiManager.addParameter(&mqtt_param);
 
-    if (!wifiManager.startConfigPortal("ESP32-Setup #1B")) {
+    if (!wifiManager.startConfigPortal("ESP32-Setup #2B")) {
         Serial.println("Failed to connect. Restarting...");
         ESP.restart();
     }
