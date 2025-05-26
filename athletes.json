@@ -19,7 +19,7 @@
             "sport": "Muaythai",
             "height": "170",
             "weight": "70",
-            "photo_path": "C:/Users/Patchara/Documents/GitHub/DPE-Project/4674_300x300.jpg",
+            "photo_path": "C:/Github/DPE-Project/4674_300x300.jpg",
             "id": "2"
         },
         {
@@ -30,7 +30,7 @@
             "sport": "Boxing",
             "height": "190",
             "weight": "150",
-            "photo_path": "C:/Users/Patchara/Documents/GitHub/DPE-Project/3aafd0f0c7e383a511cd21a683ff0a10.jpg",
+            "photo_path": "C:/Github/DPE-Project/3aafd0f0c7e383a511cd21a683ff0a10.jpg",
             "id": "3"
         },
         {
@@ -41,7 +41,7 @@
             "sport": "Basketball",
             "height": "200",
             "weight": "120",
-            "photo_path": "C:/Users/Patchara/Documents/GitHub/DPE-Project/Michael_Jordan.jpg",
+            "photo_path": "C:/Github/DPE-Project/Michael_Jordan.jpg",
             "id": "4"
         },
         {
@@ -52,7 +52,7 @@
             "sport": "Tennis",
             "height": "180",
             "weight": "80",
-            "photo_path": "C:/Users/Patchara/Documents/GitHub/DPE-Project/roger-federer-1.jpg",
+            "photo_path": "C:/Github/DPE-Project/roger-federer-1.jpg",
             "id": "5"
         },
         {
@@ -63,8 +63,134 @@
             "sport": "Soccer",
             "height": "185",
             "weight": "85",
-            "photo_path": "C:/Users/Patchara/Documents/GitHub/DPE-Project/60bac2944320fe22856b7cbe450d6ce7.jpg",
+            "photo_path": "C:/Github/DPE-Project/png-transparent-christiano-ronaldo-cristiano-ronaldo-real-madrid-c-f-portugal-nation.png",
             "id": "6"
+        },
+        {
+            "first_name": "No.1",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "7",
+            "height": "",
+            "weight": "",
+            "photo_path": "C:/Github/DPE-Project/pofile.png"
+        },
+        {
+            "first_name": "No.2",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "8",
+            "height": "",
+            "weight": "",
+            "photo_path": "C:/Github/DPE-Project/pofile.png"
+        },
+        {
+            "first_name": "No.3",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "9"
+        },
+        {
+            "first_name": "No.4",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "10"
+        },
+        {
+            "first_name": "No.5",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "11"
+        },
+        {
+            "first_name": "No.6",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "12"
+        },
+        {
+            "first_name": "No.7",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "13"
+        },
+        {
+            "first_name": "No.8",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "14"
+        },
+        {
+            "first_name": "No.9",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "15"
+        },
+        {
+            "first_name": "No.10",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "16"
+        },
+        {
+            "first_name": "No.11",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "17"
+        },
+        {
+            "first_name": "No.12",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "18"
+        },
+        {
+            "first_name": "No.13",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "19"
+        },
+        {
+            "first_name": "No.14",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "20"
+        },
+        {
+            "first_name": "No.15",
+            "last_name": "DPE",
+            "age": "15",
+            "gender": "None",
+            "sport": "None",
+            "id": "21"
         }
     ]
 }

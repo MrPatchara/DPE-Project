@@ -359,6 +359,96 @@
                     "total_time": 2.7780370712280273
                 }
             ]
+        },
+        {
+            "team": "Test",
+            "athlete_id": "1",
+            "first_name": "No.01_Patchara",
+            "last_name": "Al-umaree",
+            "sport": "Superman",
+            "date": "2025-05-26 12:40",
+            "distance_m": 100.0,
+            "timings": [
+                {
+                    "splits": [
+                        3.0,
+                        3.24
+                    ],
+                    "distances": [
+                        4.0,
+                        0.0
+                    ],
+                    "speeds": [
+                        1.33,
+                        0.0
+                    ],
+                    "accels": [
+                        0.89,
+                        0.0
+                    ],
+                    "total_time": 6.241714715957642
+                }
+            ]
+        },
+        {
+            "team": "Test",
+            "athlete_id": "2",
+            "first_name": "No.02_Buakaw",
+            "last_name": "Banchamek",
+            "sport": "Muaythai",
+            "date": "2025-05-26 12:40",
+            "distance_m": 100.0,
+            "timings": [
+                {
+                    "splits": [
+                        2.22,
+                        1.88
+                    ],
+                    "distances": [
+                        4.0,
+                        0.0
+                    ],
+                    "speeds": [
+                        1.8,
+                        0.0
+                    ],
+                    "accels": [
+                        1.62,
+                        0.0
+                    ],
+                    "total_time": 4.099475145339966
+                }
+            ]
+        },
+        {
+            "team": "Test",
+            "athlete_id": "1",
+            "first_name": "No.01_Patchara",
+            "last_name": "Al-umaree",
+            "sport": "Superman",
+            "date": "2025-05-26 12:44",
+            "distance_m": 100.0,
+            "timings": [
+                {
+                    "splits": [
+                        2.45,
+                        3.32
+                    ],
+                    "distances": [
+                        4.0,
+                        4.0
+                    ],
+                    "speeds": [
+                        1.63,
+                        1.2
+                    ],
+                    "accels": [
+                        1.33,
+                        0.73
+                    ],
+                    "total_time": 5.76518440246582
+                }
+            ]
         }
     ]
 }

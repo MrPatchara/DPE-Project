@@ -1,31 +1,6 @@
 {
     "results": [
         {
-            "athlete_id": "1",
-            "first_name": "No.01_Patchara",
-            "last_name": "Al-umaree",
-            "sport": "Superman",
-            "date": "2025-04-09 23:34",
-            "timings": [
-                1.8462955951690674,
-                1.1431775093078613,
-                2.505854845046997,
-                1.7465662956237793
-            ]
-        },
-        {
-            "athlete_id": "4",
-            "first_name": "No.04_Michael",
-            "last_name": "Jordan",
-            "sport": "Basketball",
-            "date": "2025-04-15 20:58",
-            "timings": [
-                1.2395823001861572,
-                7.897459268569946,
-                6.375899076461792
-            ]
-        },
-        {
             "athlete_id": "4",
             "first_name": "No.04_Michael",
             "last_name": "Jordan",
@@ -33,18 +8,6 @@
             "date": "2025-04-15 21:10",
             "timings": [
                 4.763014554977417
-            ]
-        },
-        {
-            "athlete_id": "3",
-            "first_name": "No.03_Mike",
-            "last_name": "Tyson",
-            "sport": "Boxing",
-            "date": "2025-04-15 21:15",
-            "distance_m": 500.0,
-            "timings": [
-                3.8476860523223877,
-                2.030092239379883
             ]
         },
         {
@@ -65,17 +28,6 @@
                 7.828287839889526,
                 6.718971014022827,
                 7.08355188369751
-            ]
-        },
-        {
-            "athlete_id": "6",
-            "first_name": "No.06_Cristiano",
-            "last_name": "Ronaldo",
-            "sport": "Soccer",
-            "date": "2025-05-14 12:05",
-            "distance_m": 100.0,
-            "timings": [
-                4.348608016967773
             ]
         },
         {
@@ -124,17 +76,6 @@
                     ],
                     "total_time": 4.574978590011597
                 }
-            ]
-        },
-        {
-            "athlete_id": "6",
-            "first_name": "No.06_Cristiano",
-            "last_name": "Ronaldo",
-            "sport": "Soccer",
-            "date": "2025-05-14 14:29",
-            "distance_m": 10.0,
-            "timings": [
-                4.872525930404663
             ]
         },
         {
@@ -268,6 +209,35 @@
                         276.82
                     ],
                     "total_time": 3.2345468997955322
+                }
+            ]
+        },
+        {
+            "athlete_id": "7",
+            "first_name": "No.",
+            "last_name": "1",
+            "sport": "Football",
+            "date": "2025-05-26 12:52",
+            "distance_m": 100.0,
+            "timings": [
+                {
+                    "splits": [
+                        3.11,
+                        4.26
+                    ],
+                    "distances": [
+                        4.0,
+                        4.0
+                    ],
+                    "speeds": [
+                        1.29,
+                        0.94
+                    ],
+                    "accels": [
+                        0.83,
+                        0.44
+                    ],
+                    "total_time": 7.3776819705963135
                 }
             ]
         }

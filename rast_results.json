@@ -53,6 +53,24 @@
             "peak_power": 8650.2,
             "average_power": 4086.94,
             "fatigue_index": 83.92
+        },
+        {
+            "athlete_id": "2",
+            "first_name": "No.02_Buakaw",
+            "last_name": "Banchamek",
+            "date": "2025-05-26 15:38",
+            "test_type": "RAST test",
+            "sprint_times": [
+                6.32,
+                4.46,
+                4.19,
+                4.32,
+                5.43,
+                3.68
+            ],
+            "peak_power": 1713.72,
+            "average_power": 964.7,
+            "fatigue_index": 80.13
         }
     ]
 }
